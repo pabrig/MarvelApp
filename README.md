@@ -1,4 +1,4 @@
-Eureka-Labs_Challenge
+MarvelApp
 This is an application for search and view your favourite hero marvel.
 
 
